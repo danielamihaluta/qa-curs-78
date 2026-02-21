@@ -1,0 +1,55 @@
+1.Descriere: Utilizatorul se poate autentifica
+
+2.Prioritare: 5/10 
+
+3.Tipul Test Case-ului: UI, Usability, Compatibility
+
+4.Mediul de testare: www.utest.com, setat în limba engleză;
+
+5.Statul de automatizare: Nu
+
+6.Precondiții: 
+
+ -Dispozitiv
+
+ -Browser
+
+ -Acces la internet
+
+7.Pașii de testare:
+
+ -Pornește despozitivul;
+
+ -Conectează-te la rețeaua de internet;
+
+ -Deschide browserul;
+
+ -Tapează textul www.utest.com, în bara de căutare;
+
+ -Apasă tasta enter;
+
+ -Localizează butonul „Log In”;
+
+ -Tapează poștă electronică validă în secțiunea „Email Address”
+
+ -Dă click pe butonul ”continue„;
+ 
+ -Tapează parola corectă în secțiunea „Password”
+ 
+ -Dă click pe butonul „Sign In”
+
+8.Atașament: Captură de ecran din 2026-02-21 la 21.35.09
+
+9.Rezultatul așteptat: Utilizatorul se poate autentifica;
+
+10.Rezultatul actual: Utilizatorul se poate autentifica;
+
+11.Datele de text: 
+
+www.utest.com , în calitate de adresa de producție;
+
+12.Statul de executare: A trecut;
+
+13.Numele/prenumele QA: Spinei Cristian
+
+14.Data și ora: 21.02.2026, ora: 21:37

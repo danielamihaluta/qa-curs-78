@@ -1,0 +1,40 @@
+Descriere: Utilizatorul poate accesa proiectele
+
+Prioritate: Înaltă
+
+Tipul test case: UI, Usability, Black-Box
+
+Statutul de automatizare: Nu
+
+Mediul: https://www.utest.com/ 
+
+Precondiții:
+1. Dispozitiv
+2. Sistem de operare
+3. Acces la internet
+4. Browser
+
+
+Pașii de testare:
+1. Pornește dispozitivul
+2. Conectează-te la rețeaua de internet
+3. Deschide browser-ul
+4. Tapează ”https://www.utest.com/ ” în bara de căutare
+5. Apasă tasta enter
+6. Localizează butonul ”Projects” din navbar
+7. Apasă pe pictograma butonului ”Projects”
+
+
+Atașament: imagine.pdf
+
+Test data: ”https://www.utest.com/ ” în calitate de adresa de producție
+
+Rezultatul așteptat: Utilizatorul poate accesa proiectele
+
+Rezultatul actual: Utilizatorul poate accesa proiectele
+
+Specialistul QA: Mihaluța Daniela
+
+Data/ora: 21/02/2026, ora: 19:34
+
+Statutul de executare: A trecut

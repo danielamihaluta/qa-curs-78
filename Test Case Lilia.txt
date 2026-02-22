@@ -1,0 +1,40 @@
+Descriere: Utilizatorul poate accesa pictograma Instagram 
+
+Prioritate: Inalta
+
+Tipul test case: UI, Usability, Black-Box
+
+Statul de automatizare: Nu 
+
+Mediul: https://www.utest.com
+
+Preconditii:
+1. Dispozitiv
+2. Sistem de operare
+3. Browser
+4. Acces la internet 
+
+
+Pasii de testare:
+1. Porneste dispozitivul 
+2. Conecteaza-te la internet 
+3. Deschide browser-ul 
+4. Tapeaza "https://www.utest.com" in bara de cautare 
+5. Apasa ENTER
+6. Da scroll in jos la pagina 
+7. Localizeaza pictograma "Instagram" 
+8. Apasa pe pictograma "Instagram"
+
+Atasament: imagine.pdf
+
+Test date: "https://www.utest.com" in calitate de adresa de productie 
+
+Rezultatul asteptat: Utilizatorul poate accesa pictograma Instagram
+
+Rezultatul actual: Utilizatorul poate accesa pictograma Instagram
+
+Nume QA: Grajdian Liliana
+
+Data/ora: 22.02.2026 ora:12:23
+
+Statul de executare: A trecut 

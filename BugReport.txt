@@ -1,0 +1,49 @@
+Titlul: Utilizatorul nu poate actualiza adresa sa de email
+
+1.Descriere: Utilizatorul nu poate actualiza adresa sa de email utilizând Postman
+
+2.Precondiții: 
+
+ -Calculator
+
+ -Sistem de operare;
+
+ -Acces la internet;
+ 
+ -Aplicația Postman instalată;
+
+ -Utilizator existent cu următorii parametri;
+
+ {
+"firstName": "Spinei",
+"lastName": "Cristian",
+"picture": "https://randomuser,me/api/portraits/med/men/32.jpg",
+"gender": "male",
+"email": "spineicrs@gmail.com"
+}
+
+ -Următorul haters: app-id62dac3815b42217c2816e6fa
+
+3.Mediul de testare: https://dummyapi.io/data/v1/user/699af08973222817c7b667bc
+
+4.Pașii de reproducere: 
+
+-Pornește calculatorul;
+-Conecteazăte la rețeaua de internet;
+-Deschide aplicația;
+-Selectează metodata PUT;
+-Inserează adresa API către utilizatori;
+-În secțiunea BODY modifică adresa de email;
+-Dă click pe butonul send;
+
+5.Rezultatul așteptat: Utilizatorul poate actualiza adresa sa de email
+
+6.Rezultatul actual: Utilizatorul nu poate actualiza adresa sa de email
+
+7.Numele/Prenumele QA: Spinei Cristian
+
+8.Încercări de a repeta: 0
+
+9.Severitate: înaltă
+
+10.Prioritate: Înaltă
